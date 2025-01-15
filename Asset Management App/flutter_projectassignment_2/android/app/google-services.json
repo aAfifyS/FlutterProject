@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292771869336",
+    "project_id": "assetmanagement-35d13",
+    "storage_bucket": "assetmanagement-35d13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292771869336:android:f6509cc517160e43f9d6ed",
+        "android_client_info": {
+          "package_name": "com.example.flutter_projectassignment_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA70yrmtY4FNA6vDRLRFBfEqE9ba0mOIaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
